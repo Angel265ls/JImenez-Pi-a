@@ -1,8 +1,16 @@
 *{
-    background-color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
+    background-color: beige;
+    font-family: 'roboto';
+    color: brown;
+
 
 
 }
+.container{
+    text-align: center;
 
+}
+
+h1{
+    background-color: burlywood;
+}
